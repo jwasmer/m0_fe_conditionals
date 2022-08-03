@@ -35,9 +35,19 @@ if (bearChoice === 1) {
 
 // Questions
 // 1. In English, using technical vocabulary, describe what is happening between lines 12 and 16.
+//      A condition is established in line 12 (that doorchoice is exactly equal to the number 1). If that condition is evaluated as true, bearClothing is assigned the value of "hat". Otherwise, it's assigned "scarf".
 // 2. What variable has a new value assigned to it after the first if statement executes?
+//      bearClothing.
 // 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+//      "scarf"
 // 4. In English, using technical vocabulary, describe what is happening between lines lines 25 and 33.
+//      Line 25 establishes the condition of variable bearChoice being exactly equal to the number 1. If that evaluates to true, line 26 is executed.
+//      If line 25 evaluates to false, it evalues the condition on line 27, checking if bearChoice is exactly equal to the number 2, executing line 28 if true.
+//      If line 27 evaluates to false, line 29's condition of bearChoice being exactly equal to the number 3 is evaluated, executing line 30 if true.
+//      If line 29 evaluates to false, line 32 executes.
 // 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+//      Line 30 will execute, outputting "You run as fast as you can into the next room. It's full of snakes!"
 // 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
+//      "You tell the bear the hat is too small and it starts to cry!"
 // 7. What is your favorite ending?
+//      Thinking outside the box and becoming the bear's best friend.
